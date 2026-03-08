@@ -78,4 +78,10 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/sumon-cu/sumon-cu/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ⭐ *“Using AI and Data Science to solve real-world problems.”*
